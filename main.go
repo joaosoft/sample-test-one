@@ -1,9 +1,14 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	sampletwo "github.com/joaosoft/sample-test-two"
+)
 
 func main() {
 	fmt.Println(NewSampleTestOne())
+	fmt.Println(sampletwo.NewSampleTestTwo())
 }
 
 func NewSampleTestOne() string {
