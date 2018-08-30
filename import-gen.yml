@@ -17,11 +17,11 @@ github.com/joaosoft/logger:
   branch: master
   revision: 0a5e59f7ede098d7493c365d0d3551ad49aaadac
 github.com/joaosoft/sample-test-three:
-  branch: master
-  revision: bf5d404e66991e5667e0d60874878192bc57dec3
+  revision: 935129fc3e4f262b10ed1fb2ed7ed6c4fb37155c
+  version: v1.0.0
 github.com/joaosoft/sample-test-two:
   branch: master
-  revision: a8b6875403910138d34e3a7d6541a00febdab30a
+  revision: cb806b81dd917c6f3e4aa037fa727bb2551b8a97
 github.com/joaosoft/writers:
   branch: master
   revision: a1cd188c0e3ffca9bb227ea1fea39ed900a867a6
