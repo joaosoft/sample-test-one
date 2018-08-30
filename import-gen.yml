@@ -1,21 +1,12 @@
 github.com/davecgh/go-spew:
   branch: master
-  revision: 8991bc29aa16c548c550c7ff78260e27b9ab7c73
-github.com/fsnotify/fsnotify:
-  branch: master
-  revision: 1d13583d846ea9d66dcabbfefbfb9d8e6fb05216
-github.com/golang/protobuf:
-  branch: master
-  revision: b27b920f9e71b439b873b17bf99f56467623814a
-github.com/hpcloud/tail:
-  branch: master
-  revision: a1dbeea552b7c8df4b542c66073e393de198a800
+  revision: d8f796af33cc11cb798c1aaeb27a4ebc5099927d
 github.com/joaosoft/errors:
   branch: master
   revision: 35a9ecf62784a4615d1f0d68de7e8bc6029e6767
 github.com/joaosoft/logger:
   branch: master
-  revision: 0a5e59f7ede098d7493c365d0d3551ad49aaadac
+  revision: 40a6f080d1c21b2e54f6ab9048996c87156afb35
 github.com/joaosoft/sample-test-three:
   revision: 935129fc3e4f262b10ed1fb2ed7ed6c4fb37155c
   version: v1.0.0
@@ -25,15 +16,6 @@ github.com/joaosoft/sample-test-two:
 github.com/joaosoft/writers:
   branch: master
   revision: a1cd188c0e3ffca9bb227ea1fea39ed900a867a6
-github.com/kr/pretty:
-  branch: main
-  revision: 73f6ac0b30a98e433b289500d779f50c1a6f0712
-github.com/kr/pty:
-  branch: master
-  revision: fa756f09eeb418bf1cc6268c66ceaad9bb98f598
-github.com/kr/text:
-  branch: main
-  revision: e2ffdb16a802fe2bb95e2e35ff34f0e53aeef34f
 github.com/labstack/gommon:
   branch: master
   revision: 2a618302b929cc20862dda3aa6f02f64dbe740dd
@@ -43,12 +25,6 @@ github.com/mattn/go-colorable:
 github.com/mattn/go-isatty:
   branch: master
   revision: 6ca4dbf54d38eea1a992b3c722a76a5d1c4cb25c
-github.com/onsi/ginkgo:
-  branch: master
-  revision: 3774a09d95489ccaa16032e0770d08ea77ba6184
-github.com/onsi/gomega:
-  branch: master
-  revision: 38ca19236de6fbe62537be60136602cf095daa35
 github.com/pmezard/go-difflib:
   branch: master
   revision: 792786c7400a136282c1664665ae0a8db921c6c2
@@ -57,7 +33,7 @@ github.com/satori/go.uuid:
   revision: 36e9d2ebbde5e3f13ab2e25625fd453271d6522e
 github.com/sirupsen/logrus:
   branch: master
-  revision: 56da6071516e308a1ae3ee6d40828e9b514c7964
+  revision: 78fa2915c1fa231f62e0438da493688c21ca678e
 github.com/stretchr/testify:
   branch: master
   revision: f35b8ab0b5a2cef36673838d662e249dd9c94686
@@ -67,21 +43,3 @@ github.com/valyala/bytebufferpool:
 github.com/valyala/fasttemplate:
   branch: master
   revision: dcecefd839c4193db0d35b88ec65b4c12d360ab0
-gopkg.in/airbrake/gobrake.v2:
-  branch: master
-  revision: 668876711219e8b0206e2994bf0a59d889c775aa
-gopkg.in/check.v1:
-  branch: v1
-  revision: 788fd78401277ebd861206a03c884797c6ec5541
-gopkg.in/fsnotify/fsnotify.v1:
-  branch: master
-  revision: c2828203cd70a50dcccfb2761f8b1f8ceef9a8e9
-gopkg.in/gemnasium/logrus-airbrake-hook.v2:
-  branch: master
-  revision: e928b033a891c0175fb643d5aa0779e86325eb12
-gopkg.in/tomb.v1:
-  branch: v1
-  revision: dd632973f1e7218eb1089048e0798ec9ae7dceb8
-gopkg.in/yaml.v2:
-  branch: master
-  revision: 5420a8b6744d3b0345ab293f6fcba19c978f1183
