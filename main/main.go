@@ -13,7 +13,6 @@ import (
 )
 
 func main() {
-	fmt.Println("test of changes")
 	err := builder.NewBuilder().Start(nil)
 	if err != nil {
 		fmt.Printf("error, %s", err)
