@@ -4,7 +4,7 @@
     "destination": "bin/main",
     "reload_time": 1,
     "log": {
-      "level": "info"
+      "level": "debug"
     }
   },
   "watcher": {
@@ -15,7 +15,7 @@
       "extensions": [ "go", "json", "yml" ]
     },
     "log": {
-      "level": "info"
+      "level": "debug"
     }
   },
   "manager": {
